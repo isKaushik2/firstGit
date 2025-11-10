@@ -1,4 +1,4 @@
 # firstGit
 My first git repo
 <br>
-Author- Kaushik Sarker
+Author- Aditay Sarker
